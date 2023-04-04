@@ -52,3 +52,4 @@ Sempre buscando mais conhecimento!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianagsilva&langs_count=8)](https://github.com/fabianagsilva/github-readme-stats)
 
+![Snake animation](https://github.com/fabianagsilva/fabianagsilva/blob/output/github-contribution-grid-snake.svg) 
