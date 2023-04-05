@@ -9,7 +9,8 @@
 --Ahh, e sinta-se a vontade para dar dicas e conselhos, eu aceito todos hehe 🤗.
 </h5>
 
-![fabianagsilva GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianagsilva&show_icons=true&theme=radical) ![ezgif com-resize (4)](https://user-images.githubusercontent.com/106114124/229918724-55050ca5-7e38-4a6b-ab44-e25077272a0b.gif)
+![fabianagsilva GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianagsilva&show_icons=true&theme=radical)![bloggif_642dcf4df1bd4](https://user-images.githubusercontent.com/106114124/230188593-96719a66-2902-40d8-9403-8bcb40ed247a.gif)
+
 
 
 
